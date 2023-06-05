@@ -1,1 +1,1 @@
-# spotify-clone-app
+# Simple Spotify Clone App
